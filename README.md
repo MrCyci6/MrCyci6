@@ -18,8 +18,7 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1054403215447298088/fb78ef0b67889eba285bc2db7d511da0.webp?size=128" alt="Loaded">
 </div>
 
-
-# 
+### 📊・Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrCyci6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="50%" alt="languages graph"  />
