@@ -7,9 +7,9 @@ At first I was making small plugins for Minecraft and over time I started to get
 ### They trusted me
 
 <div class="center">
-  <img style="width: 70px; height: 70px;" src="https://cdn.discordapp.com/icons/1026889758993023086/03e3d165ccb4965df475f9c06567d199.webp" alt="SodaCraft">
-  <img style="width: 70px; height: 70px;" src="https://cdn.discordapp.com/icons/978335236440092713/c407708acde548772f05613a184d9afc.webp" alt="Sarazia">
-  <img style="width: 70px; height: 70px;" src="https://cdn.discordapp.com/icons/975485030451269693/be30324d4f4491ed8a2a31607692aed3.webp" alt="AnaCraft">
+  <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1026889758993023086/03e3d165ccb4965df475f9c06567d199.webp" alt="SodaCraft">
+  <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/978335236440092713/c407708acde548772f05613a184d9afc.webp" alt="Sarazia">
+  <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/975485030451269693/be30324d4f4491ed8a2a31607692aed3.webp" alt="AnaCraft">
 </div>
 
 
