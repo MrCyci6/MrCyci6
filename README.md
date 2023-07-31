@@ -20,6 +20,12 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1054443268940771448/1135646866483187732/logo.png" alt="Vexiv">
 </div>
 
+### 🖥️・Languages
+
+<div>
+  <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript">
+</div>
+
 ### 📊・Stats 
 
 <div>
