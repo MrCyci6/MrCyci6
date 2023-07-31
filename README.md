@@ -34,6 +34,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 <div>
   <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="SublimeText">
   <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ">
+  <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="WinSCP">
 </div>
 
 ### 📊・Stats 
