@@ -43,8 +43,8 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrCyci6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="40%" alt="languages graph"  />
 </div>
 
-### Contact Me
+### 📩・Contact Me
 
 <div>
-  <img style="width: 240px; height: 130px;" href="https://discord.com/users/1044295629154816010" src="https://imgcdn.agendadigitale.eu/wp-content/uploads/2022/02/09114132/discord.jpg" alt="Discord button"/>
+  <img style="border-radius: 50px; width: 240px; height: 130px;" href="https://discord.com/users/1044295629154816010" src="https://imgcdn.agendadigitale.eu/wp-content/uploads/2022/02/09114132/discord.jpg" alt="Discord button"/>
 </div>
