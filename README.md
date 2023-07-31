@@ -29,6 +29,12 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img style="width: 50px; height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html">
 </div>
 
+### 🧰・What do I use ?
+
+<div>
+  <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="SublimeText">
+</div>
+
 ### 📊・Stats 
 
 <div>
