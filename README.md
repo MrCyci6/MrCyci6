@@ -8,7 +8,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 
 <div class="center">
   <img src="https://cdn.discordapp.com/icons/1026889758993023086/03e3d165ccb4965df475f9c06567d199.webp" alt="SodaCraft">
-  <img src="https://cdn.discordapp.com/icons/1026889758993023086/03e3d165ccb4965df475f9c06567d199.webp" alt="SodaCraft">
+  <img src="https://cdn.discordapp.com/icons/978335236440092713/c407708acde548772f05613a184d9afc.webp" alt="Sarazia">
 </div>
 
 <div align="center">
