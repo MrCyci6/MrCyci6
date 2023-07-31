@@ -36,6 +36,7 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
   <img style="width: 50px; height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html">
 </div>
+  <img style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
 
 ### 🧰・What do I use ?
 
