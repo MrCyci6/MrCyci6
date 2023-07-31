@@ -25,7 +25,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 <div>
   <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript">
   <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python">
-  <img style="width: 50px; height: 50px;" src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" alt="Java">
+  <img style="width: 50px; height: 50px;" src="https://w7.pngwing.com/pngs/510/15/png-transparent-java-programming-computer-programming-programming-language-android-coffee-jar-text-logo-computer-program.png" alt="Java">
   <img style="width: 50px; height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html">
 </div>
 
