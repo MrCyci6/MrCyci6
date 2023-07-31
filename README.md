@@ -17,6 +17,7 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1110892816546136204/9c1dc43db06385e9178d4ee8fbdcc6db.webp" alt="Oneria studio">
   <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1054403215447298088/fb78ef0b67889eba285bc2db7d511da0.webp" alt="Loaded">
   <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1054443268940771448/1135646427092091011/Logo.png" alt="MineHeberg">
+  <img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1054443268940771448/1135646866483187732/logo.png" alt="Vexiv">
 </div>
 
 ### 📊・Stats 
