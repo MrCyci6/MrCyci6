@@ -46,5 +46,5 @@ At first I was making small plugins for Minecraft and over time I started to get
 ### Contact Me
 
 <div>
-  <img style="width: 50px; height: 50px;" href="https://discord.com/users/1044295629154816010" src="https://imgcdn.agendadigitale.eu/wp-content/uploads/2022/02/09114132/discord.jpg" alt="Discord button"/>
+  <img style="width: 240px; height: 130px;" href="https://discord.com/users/1044295629154816010" src="https://imgcdn.agendadigitale.eu/wp-content/uploads/2022/02/09114132/discord.jpg" alt="Discord button"/>
 </div>
