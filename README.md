@@ -1,5 +1,6 @@
 <div align="center">
-  <img style="widht: 150px; height: 150px" src="https://cdn.discordapp.com/avatars/1044295629154816010/a_139b9d04b1d068d44fa970beef46742f.gif">eee</img>
+  <img style="widht: 150px; height: 150px" src="https://cdn.discordapp.com/avatars/1044295629154816010/a_139b9d04b1d068d44fa970beef46742f.gif" alt="@mrcyci6"></img>
+  <span class="author-text">@MrCyci6</span>
 </div>
 
 ### 🤙・About me
