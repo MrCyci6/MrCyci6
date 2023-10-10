@@ -59,6 +59,6 @@ At first I was making small plugins for Minecraft and over time I started to get
 
 <div>
   <a href="https://discord.com/users/1044295629154816010">
-    <img width: 25% src="https://cdn.discordapp.com/attachments/1054443268940771448/1135652439790473216/discord.jpg" alt="Discord button"/>
+    <img width="25" src="https://cdn.discordapp.com/attachments/1054443268940771448/1135652439790473216/discord.jpg" alt="Discord button"/>
   </a>
 </div>
