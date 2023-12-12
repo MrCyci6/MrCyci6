@@ -55,8 +55,10 @@ At first I was making small plugins for Minecraft and over time I started to get
 <div>
   <a href="https://www.sublimetext.com/"><img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" alt="SublimeText"></a>
   <a href="https://www.jetbrains.com/fr-fr/idea/"><img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ"></a>
-  <a href="https://winscp.net/eng/download.php"><img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="WinSCP">
+  <a href="https://www.jetbrains.com/fr-fr/clion/"><img style="width: 50px; height: 50px;" src="https://camo.githubusercontent.com/3fe43939f95102b2c87c74aaad97ea20466c1aae2f1d9759b05cf98d5798083d/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f6530566b4e43454e6973514c51766c52656f5551356a6e4c5466757572464664564b56666656427076644d2f72733a6669743a3836303a303a302f673a63652f6148523063484d364c793933643363752f5932397463474679595852705a6931732f6232647059326c6c62484d755a6e49762f643341745932397564475675644339312f634778765957527a4c7a49774d6a45762f4d445976593278706232347459585a702f6379313059584a705a6931686248526c2f636d356864476c325a53316a623231772f59584a6864476c6d4c5778765a326c6a2f615756736379317a5957467a4c6e646c2f596e41" alt="CLion">
+  <a href="https://code.visualstudio.com/"><img style="width: 50px; height: 50px;" src="https://camo.githubusercontent.com/1708ce976581ff41a169dc4d3161d41b91900ca2ea48db4950db36f9f45932af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" alt="VSC">
 </div></a>
+  <a href="https://winscp.net/eng/download.php"><img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="WinSCP">
 
 ### 📊・Stats 
 
