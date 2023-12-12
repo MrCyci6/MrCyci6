@@ -54,7 +54,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 
 <div>
   <img style="width: 50px; height: 50;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C">
-  <img style="width: 50px; height: 50;" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="React">
+  <img style="width: 50px; height: 50;" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/react-3.png" alt="React">
 </div>
 
 ### 🧰・What do I use ?
