@@ -50,7 +50,7 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
 </div>
 
-### 📚 Learning
+### 📚・Learning
 
 <div>
   <img style="width: 50px; height: 50;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C">
