@@ -2,7 +2,7 @@
   <img style="widht: 150px; height: 150px" src="https://avatars.githubusercontent.com/u/74507367?v=4" alt="@mrcyci6"></img>
 </div>
 <div align="center">
-  <a style="text-decoration: none;" href="https://discord.com/users/1044295629154816010">@MrCyci6</a>
+  <a style="text-decoration: none;" href="https://discord.com/users/1187442455268831232">@mrcyci6_</a>
 </div>
 
 # 
@@ -10,7 +10,7 @@
 ### 🤙・About me
 
 My name is Cyriac, I'm 18 years old and I'm studying computer science. Computer science has been a passion since my youth, especially Cyber ​​Security. And I intend to make it my job!
-At first I was making small plugins for Minecraft and over time I started to get interested in web application. You will find some of my script on this Github hoping it will help you. For any help request please contact me on discord: [@mrcyci6](https://discord.com/users/1044295629154816010)
+At first I was making small plugins for Minecraft and over time I started to get interested in web application. You will find some of my script on this Github hoping it will help you. For any help request please contact me on discord: [@mrcyci6_](https://discord.com/users/1187442455268831232)
 
 ### 📂・Currently working for
 
@@ -76,7 +76,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 ### 📩・Contact Me
 
 <div>
-  <a href="https://discord.com/users/1044295629154816010">
+  <a href="https://discord.com/users/1187442455268831232">
     <img style="width: 25%; height: 25%;" src="https://cdn.discordapp.com/attachments/1054443268940771448/1135652439790473216/discord.jpg" alt="Discord button"/>
   </a>
 </div>
