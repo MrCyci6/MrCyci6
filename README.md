@@ -15,7 +15,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 ### 📂・Currently working for
 
 <div>
-  <a href="https://natifia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1198231265300725770/64d774c3f7e9abaaf57fe09b97b51eb8.webp" alt="Natifia"></a>
+  <a href="https://www.natifia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1198231265300725770/64d774c3f7e9abaaf57fe09b97b51eb8.webp" alt="Natifia"></a>
   <a href="https://pvp-warcraft.net/"><img style="width: 50px; height: 50px;" src="https://pvp-warcraft.net/storage/img/favicon2.png" alt="PvP-Warcraft"></a>
   <a href="https://www.sarazia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/978335236440092713/c407708acde548772f05613a184d9afc.webp?size=96" alt="Sarazia"></a>
   <a href="https://honormc.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1106615680217915527/33ecd0b2b8a0f6004bd74b793b1ed96a.webp" alt="HonorMC"></a>
@@ -24,7 +24,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 ### 🛠️・They trusted me
 
 <div>
-  <a href="https://natifia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1198231265300725770/64d774c3f7e9abaaf57fe09b97b51eb8.webp" alt="Natifia"></a>
+  <a href="https://www.natifia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1198231265300725770/64d774c3f7e9abaaf57fe09b97b51eb8.webp" alt="Natifia"></a>
   <a href="https://discord.gg/amaru"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/514923211050188822/8e0ebcbdd1f7776b027a52209791ceb0.webp" alt="AmaruCorp"></a>
   <a href="https://pvp-warcraft.net/"><img style="width: 50px; height: 50px;" src="https://pvp-warcraft.net/storage/img/favicon2.png" alt="PvP-Warcraft"></a>
   <a href="https://honormc.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1106615680217915527/33ecd0b2b8a0f6004bd74b793b1ed96a.webp" alt="HonorMC"></a>
