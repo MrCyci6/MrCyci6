@@ -80,6 +80,6 @@ At first I was making small plugins for Minecraft and over time I started to get
 
 <div>
   <a href="https://discord.com/users/1187442455268831232">
-    <img style="width: 25%; height: 25%;" src="https://cdn.discordapp.com/attachments/1054443268940771448/1135652439790473216/discord.jpg" alt="Discord button"/>
+    <img style="width: 25%; height: 25%;" src="https://www.pngkey.com/png/detail/18-188353_discord-logo-discord-banner-for-twitch.png" alt="Discord button"/>
   </a>
 </div>
