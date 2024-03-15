@@ -9,7 +9,7 @@
 
 ### 🤙・About me
 
-My name is Cyriac, I'm 18 years old and I'm studying computer science. Computer science has been a passion since my youth, especially Cyber ​​Security. And I intend to make it my job!
+My name is Cyriac, I'm 19 years old and I'm studying computer science. Computer science has been a passion since my youth, especially Cyber ​​Security. And I intend to make it my job!
 At first I was making small plugins for Minecraft and over time I started to get interested in web application. You will find some of my script on this Github hoping it will help you. For any help request please contact me on discord: [@mrcyci6](https://discord.com/users/1187442455268831232)
 
 ### 📂・Currently working for
