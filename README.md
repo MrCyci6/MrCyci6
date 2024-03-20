@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="widht: 150px; height: 150px" src="https://media.discordapp.net/attachments/1190283470304452770/1212438850408812554/circle_pp.png?ex=65f1d6ab&is=65df61ab&hm=a7a437a8cbdaad99d7d344210992282921fa2b64a9e4752d9563b04d9ed32aaf&=&format=webp&quality=lossless&width=418&height=418" alt="@mrcyci6"></img>
+  <img style="widht: 150px; height: 150px" src="https://avatars.githubusercontent.com/u/74507367?v=4" alt="@mrcyci6"></img>
 </div>
 <div align="center">
   <a style="text-decoration: none;" href="https://discord.com/users/1187442455268831232">@mrcyci6</a>
