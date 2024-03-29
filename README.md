@@ -39,8 +39,8 @@ At first I was making small plugins for Minecraft and over time I started to get
   <a href="https://discord.gg/oneriastudios"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1190283470304452770/1215120840455094392/2102de7c0d5d4d7361bb9b1dde82a1b0.jpg?ex=65fb9878&is=65e92378&hm=7b7b9ef8f5fb83fe481d37ae613fc509e1371e2092544fc436de3ad1cd167cf3&" alt="Oneria studio"></a>
   <a href="https://discord.gg/2j4Td6TpCB"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1172915058565718137/7f37f6b86799997f690eeac575f392f3.webp" alt="Loaded"></a>
   <a href="https://discord.gg/mineheberg"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1190283470304452770/1215120991630528572/Logo.png?ex=65fb989c&is=65e9239c&hm=0261d457725766992c0b487c10adfa65b3abb2e29e5c890e874425b1116df911&" alt="MineHeberg"></a>
-  <a href="https://discord.gg/vexiv"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1190283470304452770/1215121053748035684/logo.png?ex=65fb98ab&is=65e923ab&hm=7b26f30d97605f724ccad8c1873fd6c1ab516a58a12901fea49d4cb5f7922c71&" alt="Vexiv"></a>
-  <a href="https://discord.gg/dropsq"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1190283470304452770/1215121138561056778/logo.png?ex=65fb98bf&is=65e923bf&hm=f93ce8f2323e643af35e3b0ac1037217280be8e199466e24e831d6387077047f&" alt="DropSQ">
+  <a href="https://discord.gg/vexiv"><img style="width: 50px; height: 50px;" src="https://media.discordapp.net/attachments/1190283470304452770/1215121053748035684/logo.png?ex=6617482b&is=6604d32b&hm=2be294be84d92535e051fdca712770515439a34ce4ca1cd41477dfd2f976585d&=&format=webp&quality=lossless&width=350&height=350" alt="Vexiv"></a>
+  <a href="https://discord.gg/dropsq"><img style="width: 50px; height: 50px;" src="https://media.discordapp.net/attachments/1190283470304452770/1215121138561056778/logo.png?ex=6617483f&is=6604d33f&hm=c59aa4b4ffe7585aea93937b6995656535f94cf3eed3430473c6ac01dfad4c28&=&format=webp&quality=lossless&width=704&height=631" alt="DropSQ">
 </div></a>
 
 ### 🖥️・Languages
