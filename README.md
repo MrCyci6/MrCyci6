@@ -17,7 +17,7 @@ At first I was making small plugins for Minecraft and over time I started to get
 <div>
   <a href="https://www.natifia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1198231265300725770/64d774c3f7e9abaaf57fe09b97b51eb8.webp" alt="Natifia"></a>
   <a href="https://pvp-warcraft.net/"><img style="width: 50px; height: 50px;" src="https://pvp-warcraft.net/storage/img/favicon2.png" alt="PvP-Warcraft"></a>
-  <a href="https://www.sarazia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/978335236440092713/c407708acde548772f05613a184d9afc.webp?size=96" alt="Sarazia"></a>
+  <a href="https://www.sarazia.fr/"><img style="width: 50px; height: 50px;" src="https://avatars.githubusercontent.com/u/138821970?s=200&v=4" alt="Sarazia"></a>
   <a href="https://honormc.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1106615680217915527/33ecd0b2b8a0f6004bd74b793b1ed96a.webp" alt="HonorMC"></a>
 </div>
 
@@ -29,7 +29,7 @@ At first I was making small plugins for Minecraft and over time I started to get
   <a href="https://pvp-warcraft.net/"><img style="width: 50px; height: 50px;" src="https://pvp-warcraft.net/storage/img/favicon2.png" alt="PvP-Warcraft"></a>
   <a href="https://honormc.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1106615680217915527/33ecd0b2b8a0f6004bd74b793b1ed96a.webp" alt="HonorMC"></a>
   <a href="https://discord.gg/rncagp9Jus"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1026889758993023086/03e3d165ccb4965df475f9c06567d199.webp" alt="SodaCraft"></a>
-  <a href="https://www.sarazia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/978335236440092713/c407708acde548772f05613a184d9afc.webp?size=96" alt="Sarazia"></a>
+  <a href="https://www.sarazia.fr/"><img style="width: 50px; height: 50px;" src="https://avatars.githubusercontent.com/u/138821970?s=200&v=4" alt="Sarazia"></a>
   <a href="https://discord.gg/anacraft"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/975485030451269693/be30324d4f4491ed8a2a31607692aed3.webp" alt="AnaCraft"></a>
   <a href="https://discord.gg/mctrailer"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1170846349449773188/6470824a3e4afbe3e9a6b8de47cebbf1.webp" alt="Trailer Service"></a>
   <a href="https://discord.gg/crizelia"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/attachments/1190283470304452770/1215120376972054608/logo.png?ex=65fb9809&is=65e92309&hm=eb88d1bb3aa501d3f5c0d7d69cc480d5cec71f68364be511c2ba3a48d9c34a65&" alt="Crizelia"></a>
