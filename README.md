@@ -16,9 +16,6 @@ At first I was making small plugins for Minecraft and over time I started to get
 
 <div>
   <a href="https://www.natifia.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1198231265300725770/64d774c3f7e9abaaf57fe09b97b51eb8.webp" alt="Natifia"></a>
-  <a href="https://pvp-warcraft.net/"><img style="width: 50px; height: 50px;" src="https://pvp-warcraft.net/storage/img/favicon2.png" alt="PvP-Warcraft"></a>
-  <a href="https://www.sarazia.fr/"><img style="width: 50px; height: 50px;" src="https://avatars.githubusercontent.com/u/138821970?s=200&v=4" alt="Sarazia"></a>
-  <a href="https://honormc.fr/"><img style="width: 50px; height: 50px;" src="https://cdn.discordapp.com/icons/1106615680217915527/33ecd0b2b8a0f6004bd74b793b1ed96a.webp" alt="HonorMC"></a>
 </div>
 
 ### 🛠️・They trusted me
