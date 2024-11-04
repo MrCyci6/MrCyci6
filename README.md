@@ -20,14 +20,14 @@ At first I was making small plugins for Minecraft and over time I started to get
   <img style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
   <img style="width: 50px; height: 50px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html">
   <img style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-  <img style="width: 50px; height: 50;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C">
+  <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C">
 </div>
 
 ### 📚・Learning
 
 <div>
   <a href="https://fr.react.dev/"><img style="width: 50px; height: 50;" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/react-3.png" alt="React"></a>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++">
+            <img style="width: 50px; height: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++">
 </div>
 
 ### 🧰・What do I use ?
